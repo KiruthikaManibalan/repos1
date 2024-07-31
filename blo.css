@@ -1,0 +1,18 @@
+div{
+    background-color: fuchsia;
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+span{
+    background-color: indianred;
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+body{
+    background-image: url(hpandya.webp);
+    background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size:cover;
+}

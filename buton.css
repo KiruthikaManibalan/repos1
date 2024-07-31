@@ -1,0 +1,23 @@
+a:link{
+    color:blue;
+}
+a:hover{
+    color: blueviolet;
+    font-size: 1.1em;
+}
+a:active{
+    color: cadetblue;
+    font-size: 1.1em;
+}
+a.visited{
+    color: darkslategrey;
+}
+li:hover{
+    background-color:crimson;
+}
+li:not(:hover){
+    background-color: darkcyan;
+}
+li:nth-child(even){
+    background-color: darkgray;
+}

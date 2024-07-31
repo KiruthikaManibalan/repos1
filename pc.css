@@ -1,0 +1,18 @@
+.gallery{
+    display:inline-block;
+    border: 1px solid black;
+    margin: 5px;
+}
+.gallery .description{
+    padding: 10px;
+    text-align: center;
+}
+.gallery:hover{
+    border: 1px solid blue;
+}
+.icon{
+    color: aquamarine;
+}
+.fa-sharp fa-light fa-house{
+    color: black;
+}

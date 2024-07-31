@@ -1,0 +1,38 @@
+body{
+    border:3px solid;
+}
+h1{
+    text-shadow: 3px 3px 5px red, -3px -3px 5px aliceblue;
+}
+#box1{
+    width:100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    
+}
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+}
+#box2{
+    background-color: blanchedalmond;
+
+}
+#box8{
+    background-color:coral ;
+}
+#img1{
+    float: left;
+    margin-right: 10px;
+}
+#img2{
+    float: right;
+    margin-left: 10px;
+}
+div{
+    border: 2px solid;
+    margin: 75px;
+}

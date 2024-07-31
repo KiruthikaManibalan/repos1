@@ -1,0 +1,9 @@
+#container{
+    border:2px solid;
+}
+#container h2{
+    background-color: bisque;
+}
+#container ~p{
+    background-color: bisque;
+}
